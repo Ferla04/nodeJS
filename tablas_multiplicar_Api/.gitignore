@@ -1,0 +1,4 @@
+node_modules/
+
+#Ignorar todos los archivos txt de la carpeta de salida
+salida/*.txt
